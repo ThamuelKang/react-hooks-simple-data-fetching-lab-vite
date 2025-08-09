@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react"
-import DogCard from "./components/DogCard"
-import FetchButton from "./components/FetchButton";
+import DogCard from "./DogCard"
+import FetchButton from "./FetchButton";
 
 function App() {
 
